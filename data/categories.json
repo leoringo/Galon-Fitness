@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "category": "HIIT"
+    },
+    {
+        "id": 2,
+        "category": "Mind & Body"
+    },
+    {
+        "id": 3,
+        "category": "Strength & Conditioning"
+    },
+    {
+        "id": 4,
+        "category": "Dance"
+    },
+    {
+        "id": 5,
+        "category": "Cardio"
+    }
+]

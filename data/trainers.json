@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "LJ",
+        "exp": 2,
+        "gender": "M",
+        "imgUrl": "https://cdn0-production-images-kly.akamaized.net/ZrHP1MEZfeTNwc-YFiCQ8EX9X8k=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3029024/original/086410400_1579677208-h929392.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Jed",
+        "exp": 1,
+        "gender": "M",
+        "imgUrl": "https://scontent.fcgk22-1.fna.fbcdn.net/v/t1.18169-9/545283_425583820819424_1278809728_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=NLBbFSPhzdIAX_2p2__&_nc_ht=scontent.fcgk22-1.fna&oh=00_AfBLV0ggJpuZ2uBicbs7PkmLtLIJyfUnJC5oTpkLCyUmJQ&oe=64CB9A3E"
+    },
+    {
+        "id": 3,
+        "name": "Sony",
+        "exp": 4,
+        "gender": "M",
+        "imgUrl": "https://scontent.fcgk22-1.fna.fbcdn.net/v/t39.30808-6/329117759_925469855119412_3418884033994421867_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=174925&_nc_ohc=S8qjoXY_RowAX-jERFV&_nc_ht=scontent.fcgk22-1.fna&oh=00_AfAC5rkRk__h7POahr3ajmvws5DE6ytfVf_PKjbN3T66kQ&oe=64A9C46A"
+    },
+    {
+        "id": 4,
+        "name": "Licia",
+        "exp": 1,
+        "gender": "F",
+        "imgUrl": "https://scontent.fcgk22-1.fna.fbcdn.net/v/t1.18169-9/20664785_268234670340732_1665281144982080497_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=vAndBWfywoEAX_IXnOP&_nc_ht=scontent.fcgk22-1.fna&oh=00_AfArDtp8ubn2pAZWQerRLl7k1beZvKhI4Kie95J-sGJ2xA&oe=64CB8587"
+    },
+    {
+        "id": 5,
+        "name": "Lia",
+        "exp": 5,
+        "gender": "F",
+        "imgUrl": "https://scontent.fcgk22-1.fna.fbcdn.net/v/t39.30808-6/271132791_5028190543913449_1240877201455383354_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=174925&_nc_ohc=Bl7fn5-47d8AX8wkie6&_nc_ht=scontent.fcgk22-1.fna&oh=00_AfBjXwa79z5cNn0TU_LPBRoutx8oMMWK0hepdPGg_h98fg&oe=64A8E665"
+    },
+    {
+        "id": 6,
+        "name": "Jonathan",
+        "exp": 8,
+        "gender": "M",
+        "imgUrl": "https://media.licdn.com/dms/image/D5603AQGga0eVuXBlcg/profile-displayphoto-shrink_800_800/0/1667343373305?e=2147483647&v=beta&t=-FkyICt6aXBa_POlP8C8SAzeShwEiaAYVyvg2Wb5LWc"
+    },
+    {
+        "id": 7,
+        "name": "Ganang",
+        "exp": 2,
+        "gender": "M",
+        "imgUrl": "https://scontent.fcgk13-1.fna.fbcdn.net/v/t1.18169-9/11781639_1883240795234323_6500175283923765109_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_ohc=8tRSxNG3OM4AX-3tAdi&_nc_ht=scontent.fcgk13-1.fna&oh=00_AfAHSn3WRQGa5mpRrcDKIZnruZnPJNMLsxzR4pjqc6xJxA&oe=64CB9927"
+    },
+    {
+        "id": 8,
+        "name": "Patray",
+        "exp": 2,
+        "gender": "M",
+        "imgUrl": "https://media.licdn.com/dms/image/C5603AQFJs__44m0xtA/profile-displayphoto-shrink_800_800/0/1637745105473?e=1694044800&v=beta&t=gzkXVgAOIS59HAUsIvVYVTJO0l3fh8d1htU-zYK6YyI"
+    },
+    {
+        "id": 9,
+        "name": "Keshia BJ",
+        "exp": 3,
+        "gender": "F",
+        "imgUrl": "https://scontent.fcgk22-2.fna.fbcdn.net/v/t1.18169-9/13051542_1105425176176170_8824760838620646113_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=174925&_nc_ohc=NWqBN5izOUQAX82Cq19&_nc_ht=scontent.fcgk22-2.fna&oh=00_AfDN-SZ1AnqWaAS-lLz0Ywy06zcUClVpHCdy5J-rxbIHaw&oe=64CB6FD7"
+    },
+    {
+        "id": 10,
+        "name": "Obie",
+        "exp": 1,
+        "gender": "M",
+        "imgUrl": "https://scontent.fcgk22-2.fna.fbcdn.net/v/t1.6435-9/123465946_3701388716580440_6230051898628154073_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=174925&_nc_ohc=5F6Vgf6qlbQAX-BB8Kd&_nc_ht=scontent.fcgk22-2.fna&oh=00_AfDiwYrgXESV1EUpvLprYgmO1QK4q6fhUUrO_CL40Ck4Mw&oe=64CB733B"
+    },
+    {
+        "id": 11,
+        "name": "Pelik",
+        "exp": 2,
+        "gender": "M",
+        "imgUrl": "https://scontent.fcgk13-1.fna.fbcdn.net/v/t1.6435-9/40895943_1852776011464873_130986718592499712_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=174925&_nc_ohc=DypcDMd55AAAX-ak3Vy&_nc_ht=scontent.fcgk13-1.fna&oh=00_AfDa4hMi5lZ4_COEx_j4aE1vEIERHJeWx5uFfej8Fck_UQ&oe=64CB6B70"
+    }
+]

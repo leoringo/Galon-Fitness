@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "Boxing",
+        "CategoryId": 1,
+        "lat": "-6.177352068334788",
+        "lon": "106.79067817657433",
+        "imgUrl": "https://wallpaperset.com/w/full/1/8/6/10503.jpg",
+        "description": "One of the oldest combat sports in the world, boxing, is an incredible way to workout. Why? Because it strengthens your entire body from head to toe, including both your cardiovascular system and muscular system, with a large focus on your shoulders, arms, legs, and core. Once known as the “black sheep” of the fitness industry due to the thought of it being a sport for only the beasts of men in the world, boxing has made a renaissance.\nOn the day of your first boxing class, it’s extremely important to arrive 15 to 30 minutes early for a handful of reasons. First and foremost, with all boxing gyms, fitness programs, and boot camps, there will be some paperwork and liability forms that you’ll need to sign prior to being able to take the class. Next, the trainer will want to give you a short-and-sweet run-down of the gym to help make you feel more comfortable. They will show you where the lockers and restrooms are, where the hydration station is so you can refill your water bottle, and of course, the boxing equipment. At Legends Boxing, the trainers will also teach you how to wrap your hands properly for the first time to ensure they are protected before starting the class.\nMost boxing classes are 60 minutes long and are usually structured in three “rounds” that include an intense cardio warmup, boxing with intervals of bodyweight exercises, and of course, core work. All three rounds are extremely challenging and are sure to leave you drenched in sweat from head to toe. In fact, a boxing class can burn anywhere from 500 to 1,000 calories per hour. Although all gyms are different and some are structured differently, a boxing round is typically done with a heavy bag or by shadowboxing."
+    },
+    {
+        "id": 2,
+        "name": "Pump",
+        "CategoryId": 3,
+        "lat": "-6.2645449800047555",
+        "lon": "106.78461944627972",
+        "imgUrl": "https://lmimirroralphapvr.azureedge.net/static/media/17756/27cf7244-6820-4e79-9671-2f941e8a31dd/q319-lesmills-fia-webassets_video-bp.jpg",
+        "description":"While you can expect to burn an average of 400 calories* during a 55-minute BODYPUMP workout, scientists now advise gauging the impact of your workouts by looking beyond the immediate calorie burn. It's the building of lean muscle mass that provides long-term benefits, as when you increase lean muscle mass the extra muscle will raise your metabolism, so you increase your body’s ability to effectively burn calories beyond your workout. Read more about the long-term calorie burn benefits of BODYPUMP.\nScientists have recently called out strength training as the most life-changing training modality of all. Not only does it make you stronger and fitter, but ground-breaking research now also links regular strength training with living a longer and healthier life. There’s evidence that strength training can improve heart health more significantly than cardio exercise and studies show how high-repetition strength training can grow stronger bones. And if you’re looking to lose weight, strength training is key to maintaining a healthy weight for the long term, as loss of lean muscle tissue during weight loss bumps up the risk of weight regain down the track.\nBODYPUMP uses a weight bar and weight plates and a bench. While any barbell or weight plates will do, the Les Mills SMARTBAR is ideal. It has been scientifically designed to help you increase muscle activation and speed up plate transitions, so you get faster results. The LES MILLS SMARTSTEP™ is also a great option for BODYPUMP. We also suggest that you have comfortable workout clothes, supportive shoes, a drink bottle and a sweat towel."
+    },
+    {
+        "id": 3,
+        "name": "Seduce",
+        "CategoryId": 4,
+        "lat": "-6.108933699886281",
+        "lon": "106.74048389812707",
+        "imgUrl": "https://www.celebrityfitness.co.id/-/media/project/evolution-wellness/celebrity-fitness/south-east-asia/indonesia/class-slider/dna-seduce/dnaseduce_1.jpg",
+        "description":"It’s sure to get steamy with our burlesque inspired workout, DN’A Seduce. Play the role of a sexy vixen with this dance workout but don’t underestimate the challenge that burlesque brings about. We’ll work your legs, arms and flexibility just with a little extra coquettish touch.\nAt DN’A Seduce, we’ll start by setting the scene. Sensual R&B tunes, we’ll get the lights dimmed and then we’ll get flirty. Go from a sweaty workout routine to a sexy dance routine filled with steamy moves to get your body moving and inner vixen unleashed. One hour later, you’ll leave the class feeling sexy and empowered in your own body."
+    },
+    {
+        "id": 4,
+        "name": "RPM",
+        "CategoryId": 5,
+        "lat": "-6.177352068334788",
+        "lon": "106.79067817657433",
+        "imgUrl": "https://coac.swellclubs.com/wp-content/uploads/sites/3/2022/09/coac-october-blog-What-is-Spin-Class.jpg",
+        "description": "RPM™ is a group indoor cycling workout where you control the intensity. It’s fun, low impact and you can burn up to 500 calories a session**.\nWith great music pumping and the group cycling as one, your instructor takes you on a journey of hill climbs, sprints and flat riding. In an RPM workout you repeatedly rotate the pedals to reach your cardio peak then ease back down, keeping pace with the pack to lift your personal performance and boost your cardio fitness.\nRPM is a great way to build up your sense of personal achievement. You can draw on the group’s energy and find your rhythm in the music. You control your own resistance levels and speed so you can build up your fitness level over time. It’s a journey, not a race!\nRPM™ is also available in some clubs as a virtual workout."
+    },
+    {
+        "id": 5,
+        "name": "Race 30'",
+        "CategoryId": 1,
+        "lat": "-6.2645449800047555",
+        "lon": "106.78461944627972",
+        "imgUrl": "https://www.celebrityfitness.co.id/id/-/media/project/evolution-wellness/celebrity-fitness/south-east-asia/indonesia/class-slider/cycling/cycling_13.jpg",
+        "description":"HIIT? Check Work on your lower body? Check. Stars ready to take on the Race 30 challenge, check in! This high intensity indoor cycling class makes you work hard. But it will pay it all back with some sculpted sexy legs and a smoking hot endurance. The moment you get on that bike, we’re keeping your heart rate up so your fat burn is maximum in minimum time. That means you’ll continue to burn calories even after you walk out of class.\nIf you’re a star with the desire to get maximum results in minimum time, Race30 is ready for you. Cycle with a HIIT training method where you give maximum effort through quick, intense bursts of training intervals, followed by short, and sometimes active recovery periods."
+    },
+    {
+        "id": 6,
+        "name": "Zumba",
+        "CategoryId": 4,
+        "lat": "-6.2645449800047555",
+        "lon": "106.78461944627972",
+        "imgUrl": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/zumba-facebook-event-cover-photo-design-template-8caf77c152eab1afb254ad03a856ec9d_screen.jpg?ts=1561403439",
+        "description": "You may know Zumba® as a dance class, but it’s much more than that! Zumba® classes are full-blown cardio workouts that use popular dance moves and catchy music that will get you moving and sweating. Learn more about some of the Zumba® classes at Elite Sports Clubs.\nNot every fitness facility offers Zumba® classes because they need to be taught by certified instructors. Elite Sports Clubs actually offers TWO types of Zumba® fitness classes, the traditional dance class as well as Aqua Zumba®, which is in the water! As with all of Elite’s group exercise classes, these are complimentary with every membership.\nZumba® is an interval-style dance fitness party that combines low-intensity and high-intensity moves. You’ll burn lots of calories as you move to the rhythm with Latin-inspired dance moves. The best part of it all is that it doesn’t even feel like exercise! Dance fitness classes aren’t just great for cardiovascular health, you’ll also tone your muscles and improve balance and flexibility."
+    },
+    {
+        "id": 7,
+        "name": "Yin Yoga",
+        "CategoryId": 2,
+        "lat": "-6.177352068334788",
+        "lon": "106.79067817657433",
+        "imgUrl": "https://shywmobile.com/wp-content/uploads/2019/12/Yin-Yoga-SHYW-1024x1024.jpg",
+        "description":"A Yin yoga class usually consists of a series of long-held, passive floor poses that mainly work the lower part of the body – the hips, pelvis, inner thighs, lower spine. These areas are especially rich in connective tissues. The poses are held for up to five minutes, sometimes longer. Yin is almost entirely passive, although some Yin asanas contain Yang elements. During the asanas, muscles are relaxed to avoid muscle spasm, which could result from engaging muscles for long periods.\nHolding stretches for long periods of time and other techniques closely related to Yin yoga have been practised for centuries in China and Taiwan as part of Daoist Yoga, which is sometimes known as Dao Yin. Taoist priests taught this knowledge, along with breathing techniques, to Kung Fu practitioners around 2000 years ago."
+    },
+    {
+        "id": 8,
+        "name": "Hatha Yoga",
+        "CategoryId": 3,
+        "lat": "-6.2645449800047555",
+        "lon": "106.78461944627972",
+        "imgUrl": "https://shawellness.com/shamagazine/wp-content/uploads/2015/03/hatha-yoga-vs.-bikram-yoga.jpg",
+        "description":"Hatha yoga focuses on posture and breathing techniques, traditionally to channel vital energy source. In Sanskrit, Hatha translates to force. The practice involves breath, body, and mind, and classes are usually 45 minutes to 90 minutes of breathing, yoga poses, and meditation.\nHatha yoga breathing techniques can be traced back to the 1st Century in both Buddhist and Hindu texts, but it was another 1,000 years before the use of yoga postures, or asanas, and breath control was recorded as a way to enhance vital energy.\nClassical Hatha yoga was developed in the 15th century and included guidance for the proper setting of yoga, asanas, pranayama or breathing exercises, mudras or hand gestures, and meditation for personal spiritual growth."
+    },
+    {
+        "id": 9,
+        "name": "Saltar",
+        "CategoryId": 5,
+        "lat": "-6.177352068334788",
+        "lon": "106.79067817657433",
+        "imgUrl": "https://www.celebrityfitness.co.id/id/-/media/project/evolution-wellness/celebrity-fitness/south-east-asia/indonesia/class-slider/saltar/saltar_1.jpg",
+        "description": "If you want that tight toned legs and core, Saltar’s here to get you slaying. Jump, bounce and sweat it out in this group fitness class that gets you working on a trampoline. To amp up the party, every bounce is choreographed to the music. It’s high intensity and low impact as we tighten and tone your legs and build core strength. Sure your legs will get a major workout, but we did not forget about your cardio. Each bounce will get your heart pumping and those calories burning.\nTake your starpower to the next level and come ready to get high at Saltar! Get bouncing to the beat with our choregraphed moves on a mini trampoline. Leave your worries on the ground as you work that core and challenge those legs. But in true Celebrity Fitness style, we’ve made Saltar so fun, you forget you’re even working. So jump on the bandwagon with us. You’ll walk away sweaty and happy."
+    },
+    {
+        "id": 10,
+        "name": "BOSU",
+        "CategoryId": 3,
+        "lat": "-6.2645449800047555",
+        "lon": "106.78461944627972",
+        "imgUrl": "https://cdn.shopify.com/s/files/1/0731/2185/7847/articles/BOSU_Youtube_Cover_Images.png?v=1687761775&width=1380",
+        "description": "It’s an all-in-one class that’s sure to burn calories, get your heart rate up and build muscle in one boss workout! Using a BOSU trainer and other equipment, our instructors will challenge your balance, cardio and strength. Incorporating that BOSU ball means those core muscles will have to work like mad to keep you stable, leaving you strong and toned. So come down and have a ball with us!"
+    },
+    {
+        "id": 11,
+        "name": "ViPR",
+        "CategoryId": 3,
+        "lat": "-6.177352068334788",
+        "lon": "106.79067817657433",
+        "imgUrl": "https://www.euphoriacy-egkomi.com/images/programs/Images/3D30-1-1024x492.jpg",
+        "description": "By studying the body and its adaptations, we know that Loaded Movement Training with ViPR effectively challenges and conditions muscle, fascia, nerves, skin and other systems of the body. Science shows that moving with load improves balance, agility and dynamic strength, to reach goals such as weight management, improved functionality in daily life and enhanced performance in sport.\nAll ViPR movements can be regressed and progressed to fit the fitness level and goals of each individual. Our program design methods make creating ViPR programs easy. Check out our ready-made ViPR programs."
+    },
+    {
+        "id": 12,
+        "name": "CrossFit",
+        "CategoryId": 1,
+        "lat": "-6.108933699886281",
+        "lon": "106.74048389812707",
+        "imgUrl": "https://cdn.shopify.com/s/files/1/1298/3095/files/CROSSFIT_SEAT_COVERS_1024x1024.jpg?v=1546549701",
+        "description": "It’s almost inevitable that you've scrolled past a sweaty selfie of a friend, co-worker or high school classmate bragging about their WOD and professing their love for CrossFit.\nCrossFit became a super popular workout a few years ago when box gyms began popping up not only across the country, but the world. CrossFit is practiced by members of over 13,000 affiliated gyms in 120 countries. In the U.S. alone, there are over 7,000 gyms offering the program. It’s estimated that there are roughly 4 million CrossFitters, and its members are so devoted to the competitive approach to fitness that the community has even been described as cult-like.\nWith all this publicity, you may have wondered if this program could work for you. Before you jump into the “box” (ahem, that’s CrossFit speak for gym), here’s what you need to know about the workout craze — and how to determine if it's right for you.\nCrossFit Journal notes that the workouts are so effective because of their emphasis on the elements of load, distance and speed, which help participants develop high levels of power. The workout may utilize different equipment to accomplish this, including kettle bells, rowers and bikes, medicine balls, speed ropes, rings and plyo boxes.   "
+    },
+    {
+        "id": 13,
+        "name": "Muay Thai",
+        "CategoryId": 1,
+        "lat": "-6.177352068334788",
+        "lon": "106.79067817657433",
+        "imgUrl": "https://301gym.com/wp-content/uploads/2022/10/blog-cover-30129.webp",
+        "description": "“Muay” translates to mean “boxing” in Thai, so Muay Thai is literally Thai boxing. Taking elements from Muay Boran, the traditional Thai martial arts, Muay Thai as a modern combat sport was first formalized in the early 20th century. The sport was influenced by British boxing where codified rules and the boxing ring were put in place. During this period, fighters also ditched wrapping hands with ropes (“Kard Chuek”) and began wearing boxing gloves in competitions.\nMuay Thai is a stand-up striking sport, with two competitors in the ring throwing punches, elbows, knees and kicks at each other. Clinching, sweeps and throws are also allowed. Besides the 8-point contact, a key difference between Muay Thai and many other stand-up combat sports is its emphasis on traditional elements such as the pre-fight dance ritual known as Wai Kru Ram Muay, the head dress (Mongkon) and the Sarama music that accompanies each fight.\nRead this ultimate guide to Muay Thai to find out everything you need to know about the sport."
+    },
+    {
+        "id": 14,
+        "name": "Peloton",
+        "CategoryId": 3,
+        "lat": "-6.108933699886281",
+        "lon": "106.74048389812707",
+        "imgUrl": "https://media.gq-magazine.co.uk/photos/5d13a8dc9a22c2e3a894925d/16:9/w_1280,c_limit/01-gq-05jun19_b.jpg",
+        "description": "As any Peloton instructor will tell you, the hardest part of your workout is showing up. That may be true, but if you’ve spent time scrolling through the long list of Bike classes, you know that picking which one to try can sometimes feel impossible. And while it’s easy to get sucked into the black hole of possible options, you don’t want to waste precious minutes that you could spend sweating in class fretting over which format to choose.\nTry this pro tip before you pick: Don’t judge a book by its cover (or should we say don’t judge an instructor by their spandex?). “Be open to trying different instructors,” says Peloton instructor Tunde Oyeneyin. “You may find a great class in someone you would have least expected.”\nIf you already make it a point to take different instructors but are still stuck on where to start, look no further. Here’s a breakdown of the most widely used Peloton Bike classes, so you can choose the best ride to reach your goals."
+    },
+    {
+        "id": 15,
+        "name": "Tai Chi",
+        "CategoryId": 2,
+        "lat": "-6.177352068334788",
+        "lon": "106.79067817657433",
+        "imgUrl": "https://www.youth.gov.hk/html/www/en/images/activities/cover-photo/taichi08_900.jpg",
+        "description": "A tai chi practice involves slow-motion flow — and with that comes a cadre of health benefits, too, including better balance, mobility, and coordination. Tai chi (also called tai chi chuan or tai ji quan) is a mind-body exercise that combines movements, meditation, and deep breathing, according to the American Tai Chi and Qigong Association (ATCQA).\nThe word “tai” means “supreme,” “chi” means “boundary,” and “chuan” means “fist” or “movement,” according to the University of Tennessee at Chattanooga, which runs a wheelchair and adaptive tai chi program. Put those definitions together, and tai chi chuan translates to a method of movement that cultivates inner peace, power, and awareness, and fosters overall wellness.\nThough there are several different forms of tai chi, its movements include a series of postures that you flow through during a tai chi class with the guidance of an instructor.\nTai chi is an ancient system of exercise that was developed in China in the 12th century A.D., according to the ATCQA. It was originally developed for self-defense and martial arts, but eventually grew into a health and wellness practice. Some consider it a great-grandchild of the older practice of qigong, which is similar in theory."
+    },
+    {
+        "id": 16,
+        "name": "Balance",
+        "CategoryId": 2,
+        "lat": "-6.108933699886281",
+        "lon": "106.74048389812707",
+        "imgUrl": "https://i2.wp.com/grandnat.co.uk/wp/wp-content/uploads/2012/05/bodybalance.jpg?resize=430%2C255",
+        "description": "BODYBALANCE™ is a unique workout which incorporates Yoga, Tai Chi and Pilates to help improve flexibility, build strength and leave you feeling relaxed and calm. The class will help you learn how to control your breathing and focus your mind.\nYou will carry out a series of stretches, poses and moves to create a holistic workout that brings the body and mind into a state of harmony. To ensure we keep our sessions fresh and exciting for all participants a new BODYBALANCE™ class is released every three months, complete with a new playlist and choreography. Each class is made up of approximately 45 minutes of easy-to-follow but challenging exercises, followed by a further 10 minutes of relaxation and meditation work."
+    }
+]

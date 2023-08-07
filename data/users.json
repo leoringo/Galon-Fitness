@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Zared Essam",
+        "address": "PO Box 28792",
+        "email": "zessam0@xrea.com",
+        "password": "cD6_@6ZU",
+        "phoneNumber": "965-832-7052",
+        "gender": "F",
+        "isSubscribed": false
+    },
+    {
+        "id": 2,
+        "name": "Ashlen Episcopio",
+        "address": "Suite 80",
+        "email": "aepiscopio1@blinklist.com",
+        "password": "oM1%=)ONlyw~",
+        "phoneNumber": "182-106-5604",
+        "gender": "F",
+        "isSubscribed": false
+    },
+    {
+        "id": 3,
+        "name": "Marney Whysall",
+        "address": "Apt 478",
+        "email": "mwhysall2@cnn.com",
+        "password": "tP0~&qJz#Za",
+        "phoneNumber": "235-707-2316",
+        "gender": "F",
+        "isSubscribed": false
+    },
+    {
+        "id": 4,
+        "name": "Mae Skeat",
+        "address": "Suite 45",
+        "email": "mskeat3@theatlantic.com",
+        "password": "pD9+YdID\\k$",
+        "phoneNumber": "785-335-3699",
+        "gender": "F",
+        "isSubscribed": true
+    },
+    {
+        "id": 5,
+        "name": "Dreddy Troillet",
+        "address": "PO Box 33767",
+        "email": "dtroillet4@nasa.gov",
+        "password": "aJ9?Acnhgyjg",
+        "phoneNumber": "418-312-4664",
+        "gender": "M",
+        "isSubscribed": false
+    },
+    {
+        "id": 6,
+        "name": "Beatrisa Gaize",
+        "address": "14th Floor",
+        "email": "bgaize5@spotify.com",
+        "password": "eY9{BF6c!",
+        "phoneNumber": "996-178-4613",
+        "gender": "M",
+        "isSubscribed": false
+    },
+    {
+        "id": 7,
+        "name": "Georgena Chester",
+        "address": "Apt 1543",
+        "email": "gchester6@amazon.de",
+        "password": "rV0?>>TKhm6oUB",
+        "phoneNumber": "242-760-3466",
+        "gender": "M",
+        "isSubscribed": true
+    },
+    {
+        "id": 8,
+        "name": "Roz Goodhew",
+        "address": "Suite 91",
+        "email": "rgoodhew7@51.la",
+        "password": "oO0!}nYQ}(@n\\",
+        "phoneNumber": "336-341-3760",
+        "gender": "M",
+        "isSubscribed": false
+    },
+    {
+        "id": 9,
+        "name": "Gerty Isakowicz",
+        "address": "Apt 1204",
+        "email": "gisakowicz8@google.com.br",
+        "password": "wA7*~YG!c$tem",
+        "phoneNumber": "203-999-8887",
+        "gender": "M",
+        "isSubscribed": true
+    },
+    {
+        "id": 10,
+        "name": "Gerick Huguet",
+        "address": "Suite 10",
+        "email": "ghuguet9@ezinearticles.com",
+        "password": "iA7\"\\+7adKRU1r6",
+        "phoneNumber": "561-846-8896",
+        "gender": "F",
+        "isSubscribed": true
+    }
+]

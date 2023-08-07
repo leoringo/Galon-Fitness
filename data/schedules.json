@@ -1,0 +1,112 @@
+[
+    {
+        "TrainerId": 2,
+        "ClassId": 1,
+        "date": "7/30/2023"
+    },
+    {
+        "TrainerId": 2,
+        "ClassId": 4,
+        "date": "7/23/2023"
+    },
+    {
+        "TrainerId": 1,
+        "ClassId": 5,
+        "date": "7/22/2023"
+    },
+    {
+        "TrainerId": 3,
+        "ClassId": 6,
+        "date": "7/27/2023"
+    },
+    {
+        "TrainerId": 3,
+        "ClassId": 8,
+        "date": "7/29/2023"
+    },
+    {
+        "TrainerId": 4,
+        "ClassId": 10,
+        "date": "7/10/2023"
+    },
+    {
+        "TrainerId": 4,
+        "ClassId": 12,
+        "date": "7/27/2023"
+    },
+    {
+        "TrainerId": 5,
+        "ClassId": 11,
+        "date": "7/20/2023"
+    },
+    {
+        "TrainerId": 6,
+        "ClassId": 13,
+        "date": "7/11/2023"
+    },
+    {
+        "TrainerId": 6,
+        "ClassId": 2,
+        "date": "7/10/2023"
+    },
+    {
+        "TrainerId": 7,
+        "ClassId": 15,
+        "date": "7/29/2023"
+    },
+    {
+        "TrainerId": 7,
+        "ClassId": 7,
+        "date": "7/13/2023"
+    },
+    {
+        "TrainerId": 8,
+        "ClassId": 9,
+        "date": "7/17/2023"
+    },
+    {
+        "TrainerId": 8,
+        "ClassId": 3,
+        "date": "7/19/2023"
+    },
+    {
+        "TrainerId": 8,
+        "ClassId": 14,
+        "date": "7/20/2023"
+    },
+    {
+        "TrainerId": 9,
+        "ClassId": 15,
+        "date": "7/10/2023"
+    },
+    {
+        "TrainerId": 10,
+        "ClassId": 16,
+        "date": "7/19/2023"
+    },
+    {
+        "TrainerId": 11,
+        "ClassId": 1,
+        "date": "7/24/2023"
+    },
+    {
+        "TrainerId": 11,
+        "ClassId": 2,
+        "date": "7/14/2023"
+    },
+    {
+        "TrainerId": 1,
+        "ClassId": 4,
+        "date": "7/10/2023"
+    },
+    {
+        "TrainerId": 2,
+        "ClassId": 6,
+        "date": "7/11/2023"
+    },
+    {
+        "TrainerId": 3,
+        "ClassId": 8,
+        "date": "7/20/2023"
+    }
+]

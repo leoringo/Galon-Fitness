@@ -1,0 +1,82 @@
+[
+    {
+        "ClassId": 11,
+        "UserId": 7
+    },
+    {
+        "ClassId": 11,
+        "UserId": 4
+    },
+    {
+        "ClassId": 2,
+        "UserId": 7
+    },
+    {
+        "ClassId": 13,
+        "UserId": 9
+    },
+    {
+        "ClassId": 12,
+        "UserId": 4
+    },
+    {
+        "ClassId": 6,
+        "UserId": 10
+    },
+    {
+        "ClassId": 10,
+        "UserId": 10
+    },
+    {
+        "ClassId": 1,
+        "UserId": 7
+    },
+    {
+        "ClassId": 16,
+        "UserId": 9
+    },
+    {
+        "ClassId": 2,
+        "UserId": 10
+    },
+    {
+        "ClassId": 9,
+        "UserId": 7
+    },
+    {
+        "ClassId": 15,
+        "UserId": 7
+    },
+    {
+        "ClassId": 9,
+        "UserId": 9
+    },
+    {
+        "ClassId": 10,
+        "UserId": 9
+    },
+    {
+        "ClassId": 15,
+        "UserId": 7
+    },
+    {
+        "ClassId": 15,
+        "UserId": 7
+    },
+    {
+        "ClassId": 11,
+        "UserId": 9
+    },
+    {
+        "ClassId": 9,
+        "UserId": 4
+    },
+    {
+        "ClassId": 4,
+        "UserId": 10
+    },
+    {
+        "ClassId": 7,
+        "UserId": 9
+    }
+]
